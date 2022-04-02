@@ -63,21 +63,14 @@ Commands:
 - [ ] Validate all user inputs against regexes.
 
 ## Project Information
-This script was developed in the context of my master thesis work in June 2015.
+This script was developed in the context of my Imclination in June 2015.
 
-The project was presented on Pentester Academy TV's toolbox in 2017:
+Work on a new improved version has commenced in 2020(lock-down year).
 
-[![Pentester Academy TV's toolbox](https://img.youtube.com/vi/ALSChHZdf5o/0.jpg)](https://www.youtube.com/watch?v=ALSChHZdf5o)
 
-Work on a new improved version has commenced in 2018.
-
-## One-time donation
-* Donate via Bitcoin      : **15aFaQaW9cxa4tRocax349JJ7RKyj7YV1p**
-* Donate via Bitcoin Cash : **qqez5ed5wjpwq9znyuhd2hdg86nquqpjcgkm3t8mg3**
-* Donate via Ether        : **0x70bC178EC44500C17B554E62BC31EA2B6251f64B**
 
 ## License
-   Copyright (C) 2015 - 2018 Alexandre Teyar
+   Copyright (C) 2015 - 2022 Gursimranjit
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
